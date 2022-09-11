@@ -6,7 +6,7 @@ Uzdevumi par darbībām ar tekstu
 vards = input("Ievadi vārdu: ")
 
 # Vārds ar katru burtu jaunā rindā
-def sadala_pa_burtiem(vards)
+def sadala_pa_burtiem(vards):
   pass
 
 # Izdrukā vārdu ar retinātiem burtiem
