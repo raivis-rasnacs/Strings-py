@@ -1,2 +1,2 @@
 # Strings-py
-Template for Strings assignment
+Uzdevumi par darbībām ar str teksta virknēm
