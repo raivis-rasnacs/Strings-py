@@ -20,9 +20,9 @@ def test_no_otra_gala():
   assert strings.no_otra_gala("Juris") == "siruJ"
 
 def test_klone():
-  assert strings.klone("Karlīna") == "Karlīna Karlīna Karlīna"
-  assert strings.klone("Ilze") == "Ilze Ilze Ilze"
-  assert strings.klone("Juris") == "Juris Juris Juris"
+  assert strings.klone("Karlīna") == "KarlīnaKarlīnaKarlīna"
+  assert strings.klone("Ilze") == "IlzeIlzeIlze"
+  assert strings.klone("Juris") == "JurisJurisJuris"
   
 def test_inicialis():
   assert strings.inicialis("Karlīna") == "K."
