@@ -8,19 +8,19 @@ def sadala_pa_burtiem(vards):
   pass
 print(sadala_pa_burtiem("Karlīna")) # Lokālai testēšanai
 
-# Izdrukā vārdu ar retinātiem burtiem
-# Piemērs: A l b e r t s
+# Atgriež vārdu ar retinātiem burtiem
+# Piemērs: Alberts -> A l b e r t s
 def retinati_burti(vards):
   pass
 
 
-# Izdrukā vārdu no otra gala
+# Atgriež vārdu, kas uzrakstīts no otra gala
 def no_otra_gala(vards):
   pass
 
 
-# Klonē vārdu 2 reizes
-# Piemērs: Alberts Alberts Alberts
+# Atgriež vērtību, kur vārds klonēts 2 reizes
+# Piemērs: Alberts -> AlbertsAlbertsAlberts
 def klone(vards):
   pass
 
@@ -31,11 +31,12 @@ def inicialis(vards):
   pass
 
 
-# Saskaita burtus vārdā
+# Atgriež rakstzīmju skaitu vārdā
 def burtu_skaits(vards):
   pass
 
-# Pārslēdz reģistru
+
+# Atgriež vārdu ar pretēju burtu reģistru
 # Piemērs: Alberts -> aLBERTS
 def registrs(vards):
   pass
@@ -47,7 +48,7 @@ def visi_lieli_burti(vards):
 
 
 # Pārbauda, vai vārdā nav ciparu
-# Atgriež True, ja ciparu nav un False, ja ir cipari
+# Atgriež True, ja nav ciparu vai False, ja ir cipari
 def nav_ciparu(vards):
   pass
 
