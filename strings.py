@@ -3,9 +3,10 @@ Uzdevumi par darbībām ar tekstu
 """
 
 
-# Vārds ar katru burtu jaunā rindā
+# Atgriež vārdu, kur katrs burts ir jaunā rindā
 def sadala_pa_burtiem(vards):
   pass
+
 print(sadala_pa_burtiem("Karlīna")) # Lokālai testēšanai
 
 # Atgriež vārdu ar retinātiem burtiem
